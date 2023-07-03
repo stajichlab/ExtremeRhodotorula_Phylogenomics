@@ -1,0 +1,47 @@
+Rhodotorula_paludigena_CBS_6566	609 bp.	SSU: 1-30	ITS1: 31-181	5.8S: 182-339	ITS2: 340-549	LSU: 550-609	
+Rhodotorula_kratochvilovae_CBS_7436	606 bp.	SSU: 1-30	ITS1: 31-178	5.8S: 179-336	ITS2: 337-546	LSU: 547-606	
+Rhodotorula_araucariae_CBS_6031	608 bp.	SSU: 1-30	ITS1: 31-180	5.8S: 181-338	ITS2: 339-548	LSU: 549-608	
+Rhodotorula_graminis_CBS_2826	612 bp.	SSU: 1-30	ITS1: 31-182	5.8S: 183-340	ITS2: 341-548	LSU: 549-612	
+Rhodotorula_glutinis_CBS_20	610 bp.	SSU: 1-30	ITS1: 31-181	5.8S: 182-339	ITS2: 340-546	LSU: 547-610	
+Rhodotorula_babjevae_CBS_7808	611 bp.	SSU: 1-30	ITS1: 31-182	5.8S: 183-340	ITS2: 341-547	LSU: 548-611	
+Rhodotorula_mucilaginosa_CBS_316	620 bp.	SSU: 1-30	ITS1: 31-182	5.8S: 183-339	ITS2: 340-556	LSU: 557-620	
+Rhodotorula_diobovata_CBS_6085	622 bp.	SSU: 1-30	ITS1: 31-189	5.8S: 190-347	ITS2: 348-558	LSU: 559-622	
+Rhodotorula_toruloides_CBS_6016	642 bp.	SSU: 1-100	ITS1: 101-251	5.8S: 252-408	ITS2: 409-642	LSU: Not found	
+Rhodotorula_alborubescens_JCM_5352	570 bp.	SSU: 1-23	ITS1: 24-175	5.8S: 176-332	ITS2: 333-570	LSU: Not found	
+Rhodotorula_sphaerocarpa_CBS_5939	616 bp.	SSU: 1-30	ITS1: 31-177	5.8S: 178-334	ITS2: 335-552	LSU: 553-616	
+Rhodotorula_taiwanensis_CBS_11729	611 bp.	SSU: 1-39	ITS1: 40-187	5.8S: 188-344	ITS2: 345-562	LSU: 563-611	
+Rhodotorula_ngohengohe_ICMP_22106	605 bp.	SSU: 1-30	ITS1: 31-182	5.8S: 183-340	ITS2: 341-553	LSU: 554-605	
+Rhodotorula_evergladensis_CBS_10880	540 bp.	SSU: Not found	ITS1: 1-158	5.8S: 159-316	ITS2: 317-540	LSU: Not found	
+Rhodosporidiobolus_fluvialis_CBS_6568	611 bp.	SSU: 1-30	ITS1: 31-182	5.8S: 183-340	ITS2: 341-547	LSU: 548-611	
+Rhodosporidiobolus_nylandii_CBS_9093	551 bp.	SSU: Not found	ITS1: 1-153	5.8S: 154-311	ITS2: 312-518	LSU: 519-551	
+Rhodosporidiobolus_lusitaniae_CBS_7604	605 bp.	SSU: 1-30	ITS1: 31-180	5.8S: 181-338	ITS2: 339-545	LSU: 546-605	
+Rhodosporidiobolus_poonsookiae_JCM_10207	577 bp.	SSU: 1-36	ITS1: 37-184	5.8S: 185-342	ITS2: 343-549	LSU: 550-577	
+Rhodosporidiobolus_microsporus_CBS_7041	611 bp.	SSU: 1-30	ITS1: 31-182	5.8S: 183-340	ITS2: 341-547	LSU: 548-611	
+Rhodosporidiobolus_oreadorum_CBS_14900	579 bp.	SSU: 1-54	ITS1: 55-205	5.8S: 206-363	ITS2: 364-579	LSU: Not found	
+Rhodosporidiobolus_platycladi_CGMCC_2.3118	712 bp.	SSU: 1-100	ITS1: 101-246	5.8S: 247-405	ITS2: 406-612	LSU: 613-712	
+Rhodosporidiobolus_odoratus_CBS_9115	591 bp.	SSU: Not found	ITS1: 1-170	5.8S: 171-328	ITS2: 329-535	LSU: 536-591	
+Rhodosporidiobolus_jianfalingensis_CGMCC_2.3532	714 bp.	SSU: 1-100	ITS1: 101-250	5.8S: 251-408	ITS2: 409-614	LSU: 615-714	
+Sporobolomyces_blumeae_JCM_10212	538 bp.	SSU: Not found	ITS1: 1-163	5.8S: 164-321	ITS2: 322-538	LSU: Not found	
+Sporobolomyces_ruberrimus_CBS_7500	598 bp.	SSU: 1-30	ITS1: 31-176	5.8S: 177-334	ITS2: 335-538	LSU: 539-598	
+Rhodosporidiobolus_azoricus_CBS_8949	675 bp.	SSU: 1-121	ITS1: 122-273	5.8S: 274-431	ITS2: 432-638	LSU: 639-675	
+Sporobolomyces_phaffii_CGMCC_2.2137	549 bp.	SSU: Not found	ITS1: 1-166	5.8S: 167-324	ITS2: 325-549	LSU: Not found	
+Sporobolomyces_koalae_JCM_15063	573 bp.	SSU: Not found	ITS1: 1-170	5.8S: 171-328	ITS2: 329-533	LSU: 534-573	
+Rhodosporidiobolus_ruineniae_CBS_5001	609 bp.	SSU: 1-30	ITS1: 31-179	5.8S: 180-337	ITS2: 338-545	LSU: 546-609	
+Sporobolomyces_longiusculus_PYCC_5818	558 bp.	SSU: Not found	ITS1: 1-156	5.8S: 157-314	ITS2: 315-518	LSU: 519-558	
+Sporobolomyces_carnicolor_CBS_4215	551 bp.	SSU: Not found	ITS1: 1-168	5.8S: 169-326	ITS2: 327-551	LSU: Not found	
+Sporobolomyces_bannaensis_CBS_9204	548 bp.	SSU: Not found	ITS1: 1-165	5.8S: 166-323	ITS2: 324-548	LSU: Not found	
+Sporobolomyces_jilinensis_CGMCC_2.2301	628 bp.	SSU: Not found	ITS1: 1-167	5.8S: 168-325	ITS2: 326-528	LSU: 529-628	
+Sporobolomyces_salmonicolor_CBS_490	612 bp.	SSU: 1-30	ITS1: 31-181	5.8S: 182-339	ITS2: 340-552	LSU: 553-612	
+Sporobolomyces_beijingensis_CGMCC_2.2365	638 bp.	SSU: 1-30	ITS1: 31-176	5.8S: 177-334	ITS2: 335-538	LSU: 539-638	
+Sporobolomyces_patagonicus_CBS_9657	559 bp.	SSU: Not found	ITS1: 1-157	5.8S: 158-315	ITS2: 316-519	LSU: 520-559	
+Sporobolomyces_musae_BRIP_28276	568 bp.	SSU: Not found	ITS1: 1-157	5.8S: 158-315	ITS2: 316-519	LSU: 520-568	
+Rhodosporidiobolus_fuzhouensis_CGMCC_2.4435	710 bp.	SSU: 1-100	ITS1: 101-246	5.8S: 247-404	ITS2: 405-610	LSU: 611-710	
+Rhodosporidiobolus_colostri_CBS_348	627 bp.	SSU: 1-74	ITS1: 75-223	5.8S: 224-381	ITS2: 382-587	LSU: 588-627	
+Sporobolomyces_pararoseus_CBS_491	601 bp.	SSU: 1-30	ITS1: 31-176	5.8S: 177-334	ITS2: 335-537	LSU: 538-601	
+Sporobolomyces_cellobiolyticus_CGMCC_2.5675	710 bp.	SSU: 1-100	ITS1: 101-248	5.8S: 249-406	ITS2: 407-610	LSU: 611-710	
+Sporobolomyces_japonicus_CBS_5744	683 bp.	SSU: 1-143	ITS1: 144-292	5.8S: 293-450	ITS2: 451-683	LSU: Not found	
+Sporobolomyces_roseus_CBS_486	610 bp.	SSU: 1-39	ITS1: 40-190	5.8S: 191-348	ITS2: 349-553	LSU: 554-610	
+Sporobolomyces_ellipsoideus_CGMCC_2.5619	716 bp.	SSU: 1-100	ITS1: 101-253	5.8S: 254-411	ITS2: 412-616	LSU: 617-716	
+Sporobolomyces_johnsonii_CBS_5470	605 bp.	SSU: 1-30	ITS1: 31-177	5.8S: 178-335	ITS2: 336-541	LSU: 542-605	
+Sporobolomyces_reniformis_CGMCC_2.5627	716 bp.	SSU: 1-100	ITS1: 101-252	5.8S: 253-410	ITS2: 411-616	LSU: 617-716	
+Rhodotorula_crocea_CBS_2029T	634 bp.	SSU: Not found	ITS1: 1-197	5.8S: 198-355	ITS2: 356-634	LSU: Not found	

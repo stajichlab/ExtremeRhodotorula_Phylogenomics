@@ -1,0 +1,17 @@
+Rhodotorula_toruloides_CBS_6016	Start of LSU sequence not found
+Rhodotorula_alborubescens_JCM_5352	Start of LSU sequence not found
+Rhodotorula_evergladensis_CBS_10880	End of SSU sequence not found; Start of LSU sequence not found
+Rhodosporidiobolus_nylandii_CBS_9093	End of SSU sequence not found
+Rhodosporidiobolus_oreadorum_CBS_14900	Start of LSU sequence not found
+Rhodosporidiobolus_odoratus_CBS_9115	End of SSU sequence not found
+Sporobolomyces_blumeae_JCM_10212	End of SSU sequence not found; Start of LSU sequence not found
+Sporobolomyces_phaffii_CGMCC_2.2137	End of SSU sequence not found; Start of LSU sequence not found
+Sporobolomyces_koalae_JCM_15063	End of SSU sequence not found
+Sporobolomyces_longiusculus_PYCC_5818	End of SSU sequence not found
+Sporobolomyces_carnicolor_CBS_4215	End of SSU sequence not found; Start of LSU sequence not found
+Sporobolomyces_bannaensis_CBS_9204	End of SSU sequence not found; Start of LSU sequence not found
+Sporobolomyces_jilinensis_CGMCC_2.2301	End of SSU sequence not found
+Sporobolomyces_patagonicus_CBS_9657	End of SSU sequence not found
+Sporobolomyces_musae_BRIP_28276	End of SSU sequence not found
+Sporobolomyces_japonicus_CBS_5744	Start of LSU sequence not found
+Rhodotorula_crocea_CBS_2029T	End of SSU sequence not found; Start of LSU sequence not found
